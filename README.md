@@ -50,8 +50,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
  Create a new branch:
 
 ``` bash
-## Copy code
-git checkout -b feature/YourFeatureName
+ Copy code
+git checkout -b feature/YourFeatureName'''
 Make your changes and commit:
 
 ``` bash
