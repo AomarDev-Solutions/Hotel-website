@@ -38,7 +38,7 @@ Simply open the index.html file in your preferred web browser.
 Copy code
 open index.html  # macOS
 start index.html # Windows
-xdg-open index.html # Linux
+xdg-open index.html # Linux```
 Usage
 Open the index.html file in a web browser to view the website. Navigate through the pages to explore the features.
 
@@ -57,7 +57,7 @@ Make your changes and commit:
 ``` bash
  Copy code
 git add .
-git commit -m "Add feature: YourFeatureName"
+git commit -m "Add feature: YourFeatureName"```
 Push to the branch:
 
 ``` bash
