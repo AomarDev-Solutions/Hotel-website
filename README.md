@@ -1,14 +1,12 @@
 ## Table of Contents
 
-- Project Overview
--Features
-- Technologies Used
-- Installation
-- Usage
-- Contributing
-- License
-- Contact
-- Project Overview
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 This project provides a clean and  not responsive website template for a hotel. It includes essential pages and features to present information about the hotel,  and contact information.
 
 ## Features
@@ -26,7 +24,7 @@ Clone the repository:
 
 ``` bash
  Copy code
-git clone https://github.com/your-username/hotel-website.git
+git clone https://github.com/your-username/hotel-website.git'''
 Navigate to the project directory:
 
 ``` bash
